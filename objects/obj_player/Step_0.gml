@@ -28,7 +28,8 @@ if (!instance_place(x,y+1, obj_block)){
 
 if (place_meeting(x,y,obj_hider)) {
 	canHide = true
-} else {
+}
+if (!place_meeting(x,y,obj_hider)){
 	canHide = false
 	shdr = sdr_default
 }

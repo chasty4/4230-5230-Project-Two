@@ -1,0 +1,2 @@
+canHide = false
+isHiding = false

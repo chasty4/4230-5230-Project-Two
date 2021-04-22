@@ -1,9 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"Spr_building_back","path":"sprites/Spr_building_back/Spr_building_back.yy",},"order":5,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"Obj_enemy_turret","path":"objects/Obj_enemy_turret/Obj_enemy_turret.yy",},"order":5,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
+    {"id":{"name":"Spr_building_front","path":"sprites/Spr_building_front/Spr_building_front.yy",},"order":6,},
     {"id":{"name":"obj_ui","path":"objects/obj_ui/obj_ui.yy",},"order":3,},
+    {"id":{"name":"Spr_star","path":"sprites/Spr_star/Spr_star.yy",},"order":4,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
+    {"id":{"name":"Spr_enemy","path":"sprites/Spr_enemy/Spr_enemy.yy",},"order":3,},
+    {"id":{"name":"Obj_enemy_patrol","path":"objects/Obj_enemy_patrol/Obj_enemy_patrol.yy",},"order":4,},
     {"id":{"name":"sdr_green","path":"shaders/sdr_green/sdr_green.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_hider","path":"sprites/spr_hider/spr_hider.yy",},"order":2,},
@@ -51,7 +57,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "Shades of Honor",

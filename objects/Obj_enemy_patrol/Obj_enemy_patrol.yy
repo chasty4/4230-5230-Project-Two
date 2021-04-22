@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hider",
-    "path": "sprites/spr_hider/spr_hider.yy",
+    "name": "Spr_enemy",
+    "path": "sprites/Spr_enemy/Spr_enemy.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,21 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
-  "properties": [
-    {"varType":5,"value":"sdr_green","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[
-        "GMShader",
-      ],"resourceVersion":"1.0","name":"shdr","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "eventList": [],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hider",
+  "name": "Obj_enemy_patrol",
   "tags": [],
   "resourceType": "GMObject",
 }
