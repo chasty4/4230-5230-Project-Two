@@ -1,2 +1,0 @@
-canHide = false
-isHiding = false
