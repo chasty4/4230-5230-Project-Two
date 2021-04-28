@@ -24,6 +24,11 @@ if instance_exists(obj_player){
 		hspeed = hsp
 		direc = sign(hsp)
 	}
+	
+	if keyboard_check_pressed(ord("E"))
+	{
+		instance_create_layer(x, y, "Instances", obj_sword)
+	}
 }
 
 image_xscale = sign(direc)
