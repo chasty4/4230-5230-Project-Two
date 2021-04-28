@@ -1,0 +1,2 @@
+speed=spd
+direction=dir

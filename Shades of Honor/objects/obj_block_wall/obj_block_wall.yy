@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_stoper",
-    "path": "sprites/spr_stoper/spr_stoper.yy",
+    "name": "spr_block",
+    "path": "sprites/spr_block/spr_block.yy",
   },
-  "solid": false,
-  "visible": false,
+  "solid": true,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_stoper",
+  "name": "obj_block_wall",
   "tags": [],
   "resourceType": "GMObject",
 }

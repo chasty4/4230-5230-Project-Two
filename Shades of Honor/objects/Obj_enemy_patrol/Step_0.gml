@@ -32,4 +32,9 @@ if instance_exists(obj_player){
 }
 
 image_xscale = sign(direc)
+if !instance_place(x+hspeed, y+sprite_yoffset, obj_block)
+{
+	image_xscale *= -1
+	hsp *= -1
+}
 	
