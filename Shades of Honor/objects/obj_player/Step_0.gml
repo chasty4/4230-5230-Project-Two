@@ -12,6 +12,7 @@ if (keyboard_check(ord("A"))) {
 // vertical movement
 if (keyboard_check(ord("W"))){
 	if (instance_place(x,y+1,obj_block)) {
+		audio_play_sound(snd_jump, 8, false)
 		vspeed = jump_height
 	}
 } 
