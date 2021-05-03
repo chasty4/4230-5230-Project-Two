@@ -28,7 +28,6 @@
     {"id":{"name":"obj_block_wall","path":"objects/obj_block_wall/obj_block_wall.yy",},"order":13,},
     {"id":{"name":"obj_boss","path":"objects/obj_boss/obj_boss.yy",},"order":10,},
     {"id":{"name":"Spr_enemy","path":"sprites/Spr_enemy/Spr_enemy.yy",},"order":3,},
-    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":16,},
     {"id":{"name":"obj_hider_swinger","path":"objects/obj_hider_swinger/obj_hider_swinger.yy",},"order":3,},
     {"id":{"name":"Obj_enemy_patrol","path":"objects/Obj_enemy_patrol/Obj_enemy_patrol.yy",},"order":4,},
     {"id":{"name":"Spr_light","path":"sprites/Spr_light/Spr_light.yy",},"order":13,},

@@ -17,6 +17,11 @@ if (keyboard_check(ord("W"))){
 	}
 } 
 
+if keyboard_check_pressed(ord("E"))
+{
+	instance_create_layer(x, y, "Instances", obj_sword)
+}
+
 if hp <= 0 {
 	instance_destroy()	
 }
