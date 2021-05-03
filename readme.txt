@@ -15,10 +15,16 @@ W: Jump
 A: Move left
 S: Move right
 
-Q: Hide
+I: Hide
 (can hide only in designated zones)
 
+O: Melee Attack
+
 Esc: Restart
+
+Smoke Effect Sprite:
+https://opengameart.org/content/smoke-aura
+Author: Beast
 
 Music/Sound Effects:
 

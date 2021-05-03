@@ -8,5 +8,6 @@ draw_text(20,80, obj_player.shdr)
 */
 
 if instance_exists(obj_player) {
-	draw_healthbar(16, 16, 144, 32, obj_player.hp, c_black, c_red, c_lime, 0, true, true)	
+	draw_healthbar(16, 16, 144, 32, obj_player.hp, c_black, c_red, c_lime, 0, true, true)
+	//draw_text(16, 48, obj_player.image_xscale)
 }
