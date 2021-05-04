@@ -1,0 +1,1 @@
+show_text("And every day without fail one should consider himself as dead.")

@@ -1,0 +1,1 @@
+show_text(" falling from thousand-foot cliffs.")

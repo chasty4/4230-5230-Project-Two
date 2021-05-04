@@ -22,6 +22,8 @@ O: Melee Attack
 
 Esc: Restart
 
+Shift: Invinsibility
+
 Smoke Effect Sprite:
 https://opengameart.org/content/smoke-aura
 Author: Beast

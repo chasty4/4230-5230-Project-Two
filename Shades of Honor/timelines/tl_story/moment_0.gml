@@ -1,0 +1,1 @@
+show_text("The Way of the Samurai is found in death.")

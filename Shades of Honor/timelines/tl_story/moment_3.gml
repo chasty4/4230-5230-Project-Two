@@ -1,0 +1,1 @@
+show_text("one should meditate upon being ripped apart by arrows, rifles, spears and swords, ")

@@ -1,4 +1,8 @@
 //  horizontal movement
+if invinsible {
+	hp = 100
+}
+
 if (keyboard_check(ord("D"))) {
 	x += move_spd
 	image_xscale = 1

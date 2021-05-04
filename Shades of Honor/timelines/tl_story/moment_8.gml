@@ -1,0 +1,1 @@
+show_text("I will have my revenge.")

@@ -1,0 +1,1 @@
+show_text("being thrown into the midst of a great fire,")

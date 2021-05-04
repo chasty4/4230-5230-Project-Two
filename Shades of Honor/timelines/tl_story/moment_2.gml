@@ -1,0 +1,1 @@
+show_text("Every day when one's body and mind are at peace,")
