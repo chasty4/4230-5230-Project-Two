@@ -10,6 +10,6 @@ void main()
 	
 	
 	gl_FragColor.r = 0.0;
-	gl_FragColor.g = 255.0;
+	gl_FragColor.g = 157.0;
 	gl_FragColor.b = 0.0;
 }
